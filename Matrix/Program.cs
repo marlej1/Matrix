@@ -15,6 +15,8 @@ namespace ConsoleApplication1
             Console.ForegroundColor = ConsoleColor.Green;
             Start();
             Console.ReadKey();
+			Console.ReadKey();
+			
         }
 
         public static List<char> CreateRandomList()

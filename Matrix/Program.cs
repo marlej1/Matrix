@@ -15,8 +15,7 @@ namespace ConsoleApplication1
             Console.ForegroundColor = ConsoleColor.Green;
             Start();
             Console.ReadKey();
-			Console.ReadKey();
-Console.ReadKey();
+		
 			
         }
 
